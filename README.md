@@ -1,6 +1,5 @@
-# Springboard
-Data Science Projects
+# Urban-Sound-Classification
 
-This repository contains different mini data science and deep machine learning projects mainly in Python.
+This repository contains code files and reports for the Urban Sound Classification project.
 
 Menna El-Shaer
